@@ -152,3 +152,114 @@
     border: none;
     border-radius: 10px;
 }
+
+
+/* CURRENT TARGET SECTION STYLE START FROM HERE */
+.current-target-container{
+    max-width: 1140px;
+    margin: 50px auto;
+}
+.current-target-content-box{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.current-box-title{
+    font-size: 32px;
+    font-weight: 800;
+    color: #0D1321;
+}
+.current-box-description{
+    font-size: 16px;
+    margin:24px 0;
+}
+.target-boxs{
+    display: flex;
+    gap: 25px;
+    margin-top: 50px;
+    padding: 15px;
+}
+.target-box{
+    padding: 15px;
+    border-radius: 5px;
+    width: 33%;
+}
+.target-box-1-bg{
+    background-color: #fff6f4;
+}
+.target-box-2-bg{
+    background-color: #f2f6fe;
+}
+.target-box-3-bg{
+    background-color: #fffdf2;
+}
+.terget-box-img{
+    width: 50px;
+    height: 50px;
+}
+.target-box-title{
+    font-size: 24px;
+    font-weight: 800;
+    color: #0D1321;
+    margin-top: 10px;
+}
+.target-box-description{
+    font-size: 16px;
+    color: #0D1321;
+    margin-top: 30px;
+}
+.target-box-btn{
+    font-size: 16px;
+    color: #0D1321;
+    border: none;
+    outline: none;
+    margin-top: 20px;
+}
+
+/* SUPPORT SECTION STYLE START FROM HERE */
+.support-section-text-contents{
+    max-width: 1140px;
+    height: 300px;
+    margin: 50px auto; 
+    background-image: url('../assets/handshake.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+    border-radius: 5px;
+    text-align: center;
+}
+.support-section-text-content{
+    width: 700px;
+    margin: 40px auto;
+    text-align: center;
+}
+.support-section-title{
+    font-weight: bold;
+    font-size: 32px;
+    color: #ffffff;
+}
+.support-section-description{
+    font-size: 16px;
+    margin: 10px 0;
+    color:#ffffff;
+}
+.support-section-input{
+    background-color: #ffffff;
+    padding: 15px 50px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #0D1321;
+    border-radius: 5px;
+}
+.support-section-btn{
+    background-color: #ffffff;
+    padding: 15px 20px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #0D1321;
+    border-radius: 5px;
+    margin-left: 5px;
+}
