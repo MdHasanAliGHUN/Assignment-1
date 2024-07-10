@@ -7,6 +7,31 @@
 .font-style{
     font-family: "Azeret Mono", monospace;
 }
+/* Navbar Style Start from here */
+.navbar{
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.navbar-container{
+    max-width: 1050px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+}
+.nav-title{
+    font-size: 28px;
+    font-weight: 800;
+    color: #0D1321;
+}
+.nav-btn{
+    font-size: 20px;
+    font-weight: 400;
+    color: #0D1321;
+    padding: 5px 15px;
+    width: 230px;
+}
 
 /* Banner Section Style Start From Here */
 .banner-section{
